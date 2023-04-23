@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,V as l}from"./chunks/framework.634eae90.js";const A=JSON.parse('{"title":"TypeScript 应用","description":"","frontmatter":{},"headers":[],"relativePath":"ts/pro.md"}'),p={name:"ts/pro.md"},e=l("",98),o=[e];function t(r,c,i,y,D,F){return a(),n("div",null,o)}const u=s(p,[["render",t]]);export{A as __pageData,u as default};
