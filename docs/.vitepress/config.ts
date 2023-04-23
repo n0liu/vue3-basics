@@ -7,7 +7,7 @@ import sidebar from './configs/sidebar'
 export default defineConfig({
   title: 'Vue3-basics',
   description: '学习 Vue3 以及配合 vite 搭建项目的相关知识',
-  base: process.env.BASE || '/',
+  base: '/vue3-basics/',
   markdown: {
     headers: {
       level: [0, 0],
