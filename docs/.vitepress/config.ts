@@ -35,7 +35,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/n0liu' },
     ],
     editLink: {
-      pattern: 'https://github.com/infinite-creation/vitepress-unocss-starter/edit/main/docs/:path',
+      pattern: 'https://github.com/n0liu/vue3-basics/tree/main/docs/:path',
       text: 'Edit this page on GitHub',
     },
   } as any,
