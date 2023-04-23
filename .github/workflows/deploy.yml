@@ -33,6 +33,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/.vitepress/dist
+          branch: gh-pages
           repo: https://github.com/n0liu/vue3-basics
           # cname: example.com # if wanna deploy to custom domain
 
