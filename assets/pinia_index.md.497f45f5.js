@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.58be7107.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pinia/index.md"}'),n={name:"pinia/index.md"};function r(o,i,s,c,p,d){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
